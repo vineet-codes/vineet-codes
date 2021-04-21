@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vineet Kumar Singh (@vineet-codes)
+- 👀 I’m interested in building and making software systems and products.
+- 🌱 I’m currently learning game theory and incentives.
+- 💞️ I currently build products and services at citigroup. 
