@@ -2,7 +2,7 @@
 - I’m interested in building and making software systems and products.
 - Currently build financial products and services at citigroup. 
 - Software engineering lead -> Neural Networks / Data Science Lead -> Gloabl Product Lead 
-- I see my role as, Technical person hired to advance company's mission and not drive latest and greatest technology adoption.
+- I see my role as, technical person hired to advance company's mission and not drive latest and greatest technology adoption.
 - Things i do,
   - Understand business startegy and translate that into product roadmap. -> Output: High level functional architecture
   - Find technical solutions to make services efficient and operationally lean. -> Output: Technology reccomendations for engineering teams, building proof of concepts/prototypes to de-risk adoption of newER software lego blocks. Eg: Lead the adoptions of neural network stack (Pytoch, Conda, On-premise GPU's etc)
