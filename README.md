@@ -4,6 +4,7 @@
 - Software engineering lead -> Neural Networks / Data Science Lead -> Global Product Lead 
 - I see my role as, technical person hired to advance company's mission and not drive latest and greatest technology adoption.
 - Things i do,
+  - Talk to clients. You would be surprised how much one can learn from client. Please do it often. Hard earned lesson.
   - Understand business startegy and translate that into product roadmap. -> Output: High level functional architecture
   - Find technical solutions to make services efficient and operationally lean. -> Output: Technology reccomendations for engineering teams, building proof of concepts/prototypes to de-risk adoption of new-ER software lego blocks. Eg: Lead the adoptions of neural network stack (Pytoch, Conda, On-premise GPU's etc)
   - Secure funding for new products by driving consensus and clear articulation of business objectives. Output: Secured financial support for multiple million dollar, multi-year projects.
